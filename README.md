@@ -35,5 +35,10 @@ It’s a simple, responsive one-page portfolio designed as part of my coding jou
 - Mobile-first design with **media queries**
 ---
 
+## Live Demo
+👉 [Click to View]((https://ninjasyntax.github.io/-Responsive-Portfolio-Page/))  
+
+---
+
 ##  Connect With Me
 Follow my journey on [Twitter](https://x.com/NinjaSaurabh12)  
