@@ -36,7 +36,7 @@ It’s a simple, responsive one-page portfolio designed as part of my coding jou
 ---
 
 ## Live Demo
-👉 [Click to View]((https://ninjasyntax.github.io/-Responsive-Portfolio-Page/))  
+👉 [Click to View](https://ninjasyntax.github.io/-Responsive-Portfolio-Page/)  
 
 ---
 
