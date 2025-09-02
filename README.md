@@ -6,7 +6,7 @@ It’s a simple, responsive one-page portfolio designed as part of my coding jou
 ---
 
 ## 📸 Screenshot
-![Portfolio Screenshot](./assets/screenshot.png)
+![Portfolio Screenshot](Responsive Portfolio Page.png)
 
 ---
 
