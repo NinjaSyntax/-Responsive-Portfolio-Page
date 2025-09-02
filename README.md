@@ -33,13 +33,6 @@ It’s a simple, responsive one-page portfolio designed as part of my coding jou
 - How to build a responsive layout using **Grid** and **Flexbox**
 - Using **auto-fit + minmax()** for responsive grids
 - Mobile-first design with **media queries**
-
----
-
-##  Next Steps
-- Add more sections (Projects, Contact Form)
-- Add interactivity using **JavaScript** (coming soon 🚀)
-
 ---
 
 ##  Connect With Me
